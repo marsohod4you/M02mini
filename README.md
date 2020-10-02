@@ -23,5 +23,13 @@ Use Intel Quartus Prime for building projects and programme FPGA boards.
 
 4) forth_j1
 	Forth processor J1 in FPGA.
+	
+5) pm_radio
+	Mono sound music 8bit 22050Hz sampling rate is sent via serial port to FPGA board M02mini.
+	FPGA receives bytes and reloads PLL phase according to value of received byte.
+	So basic output frequency 100MHz little bit floats modulated by music signal.
+	Two 0.75 meter wires connected to digital pins of FPGA board play role of antenna.
+	So FPGA board transmits music.
+	Use mobile phone with Radio app to listen music remotely up to 10-15 meters.
 
 
