@@ -1,0 +1,6 @@
+
+
+D:/altera/USB-KEY/M02mini/forth_j1/jram.v
+
+Sep 30 01PM:25:27>: File D:/altera/USB-KEY/M02mini/forth_j1/jram.v does not exist.
+Do you want to create the file?
