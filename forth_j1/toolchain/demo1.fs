@@ -41,9 +41,6 @@ header emit
     h# 0 io!
 ;
 
-header c@
-: c@
-
 header cr
 : cr
     d# 13 emit
