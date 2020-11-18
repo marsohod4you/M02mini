@@ -1,6 +1,7 @@
 # M02mini
 FPGA projects for M02mini MAX10 2K board.
 Use Intel Quartus Prime for building projects and programme FPGA boards.
+Please note each subfolder has own LICENSE file based on BSD 3-Clause "New" or "Revised" License.
 
 1) max10_02_first
 	Simple project with
